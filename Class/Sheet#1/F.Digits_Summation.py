@@ -1,0 +1,5 @@
+x,y =input().split()
+x=int(x)
+y=int(y)
+z=((x%10)+(y%10))
+print(z)
