@@ -5,3 +5,4 @@ print(t[1:4])
 print(t[:2])
 
 print(t[2:])
+
